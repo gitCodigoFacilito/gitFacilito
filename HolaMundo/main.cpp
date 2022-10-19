@@ -12,6 +12,7 @@ int main()
     cout << "Cinco" << endl;
 
     cout << "Test 1" << endl;
+    cout << "Test 2" << endl;
 
     return 0;
 }
