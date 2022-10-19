@@ -8,7 +8,7 @@ int main()
     cout << "Uno" << endl;
     cout << "Dos" << endl;
     cout << "Tres" << endl;
-    cout << "Cuatro" << endl;
+    cout << "Four" << endl;
     cout << "Cinco" << endl;
 
     cout << "Test 1" << endl;
