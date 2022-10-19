@@ -14,6 +14,7 @@ int main()
     cout << "Test 1" << endl;
     cout << "Test 2" << endl;
     cout << "Test 3" << endl;
+    cout << "Test 4" << endl;
 
     return 0;
 }
