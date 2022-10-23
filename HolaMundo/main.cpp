@@ -22,6 +22,8 @@ int main()
     cout << "Escribimos más basura" << endl;
     cout << "más caca" << endl;
 
+    cout << "línea killmess" << endl;
+
 
     cout << "línea hotmail" << endl;
 
