@@ -27,7 +27,7 @@ int main()
 
     cout << "línea hotmail" << endl;
 
-    cout << "linea hotmail 2" << endl;
+    cout << "linea cambio de killmess" << endl;
 
     return 0;
 }
