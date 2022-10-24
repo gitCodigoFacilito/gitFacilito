@@ -22,12 +22,12 @@ int main()
     cout << "Escribimos más basura" << endl;
     cout << "más caca" << endl;
 
-    cout << "línea killmess" << endl;
+    cout << "nope, linea hotmail" << endl;
 
 
     cout << "línea hotmail" << endl;
 
-    cout << "linea cambio de killmess" << endl;
+    cout << "hotmail manda" << endl;
 
     return 0;
 }
